@@ -1,4 +1,4 @@
-# Zainab Books Management System — Ultra Pro Max
+# Nimraa Books Management System — Ultra Pro Max
 
 A responsive Express + MySQL CRUD website with a premium natural colour palette, real photography backgrounds, search/filtering, and dropdown-based book selection for Update, Delete, and List One.
 
